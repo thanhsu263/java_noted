@@ -1,1 +1,2 @@
 https://www.w3schools.com/java/java_strings.asp
+https://www.w3schools.com/java/java_math.asp
