@@ -1,3 +1,4 @@
 https://www.w3schools.com/java/java_strings.asp
 https://www.w3schools.com/java/java_math.asp
 https://www.w3schools.com/java/java_conditions_shorthand.asp
+https://www.w3schools.com/java/java_foreach_loop.asp
